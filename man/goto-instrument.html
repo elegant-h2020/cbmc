@@ -188,6 +188,9 @@
 <dt><strong>--memory-leak-check</strong></dt>
 <dd><p>enable memory leak checks</p>
 </dd>
+<dt><strong>--memory-cleanup-check</strong></dt>
+<dd><p>Enable memory cleanup checks: assert that all dynamically allocated memory is explicitly freed before terminating the program.</p>
+</dd>
 <dt><strong>--div-by-zero-check</strong></dt>
 <dd><p>enable division by zero checks</p>
 </dd>
@@ -335,6 +338,9 @@ cbmc --function get_message_test get_message_test-mod.gb</code></pre>
 </dd>
 <dt><strong>--nondet-static-exclude</strong> <em>e</em></dt>
 <dd><p>same as nondet-static except for the variable <em>e</em> (use multiple times if required)</p>
+</dd>
+<dt><strong>--nondet-static-matching</strong> <em>r</em></dt>
+<dd><p>add nondeterministic initialization of variables with static lifetime matching regex <em>r</em></p>
 </dd>
 <dt><strong>--function-enter</strong> <em>f</em><br />
 <strong>--function-exit</strong> <em>f</em><br />
@@ -721,6 +727,9 @@ void call(fptr_t fptr) {
 <dt><strong>--reachability-slice</strong></dt>
 <dd><p>remove instructions that cannot appear on a trace from entry point to a property</p>
 </dd>
+<dt><strong>--reachability-slice-fb</strong></dt>
+<dd><p>remove instructions that cannot appear on a trace from entry point through a property</p>
+</dd>
 <dt><strong>--full-slice</strong></dt>
 <dd><p>slice away instructions that don't affect assertions</p>
 </dd>
@@ -751,14 +760,20 @@ void call(fptr_t fptr) {
 <dt><strong>--apply-loop-contracts</strong></dt>
 <dd><p>check and use loop contracts when provided</p>
 </dd>
-<dt><strong>--synthesize-loop-invariants</strong></dt>
-<dd><p>synthesize and apply loop invariants</p>
+<dt><strong>-loop-contracts-no-unwind</strong></dt>
+<dd><p>do not unwind transformed loops</p>
 </dd>
 <dt><strong>--replace-call-with-contract</strong> <em>fun</em></dt>
 <dd><p>replace calls to <em>fun</em> with <em>fun</em>'s contract</p>
 </dd>
 <dt><strong>--enforce-contract</strong> <em>fun</em></dt>
 <dd><p>wrap <em>fun</em> with an assertion of its contract</p>
+</dd>
+<dt><strong>--enforce-contract-rec</strong> <em>fun</em></dt>
+<dd><p>wrap <em>fun</em> with an assertion of its contract that can handle recursive calls</p>
+</dd>
+<dt><strong>--dfcc</strong> <em>fun</em></dt>
+<dd><p>instrument dynamic frame condition checks method using <em>fun</em> as entry point</p>
 </dd>
 </dl>
 <h2>User-interface options:</h2>

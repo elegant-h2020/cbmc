@@ -20,7 +20,7 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
       [ "bv_spect", "classbv__spect.html", "classbv__spect" ],
       [ "bv_arithmetict", "classbv__arithmetict.html", "classbv__arithmetict" ]
     ] ],
-    [ "byte_operators.cpp", "util_2byte__operators_8cpp.html", "util_2byte__operators_8cpp" ],
+    [ "byte_operators.cpp", "byte__operators_8cpp.html", "byte__operators_8cpp" ],
     [ "byte_operators.h", "byte__operators_8h.html", "byte__operators_8h" ],
     [ "c_types.cpp", "c__types_8cpp.html", "c__types_8cpp" ],
     [ "c_types.h", "c__types_8h.html", "c__types_8h" ],
@@ -34,6 +34,11 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
     ] ],
     [ "config.cpp", "config_8cpp.html", "config_8cpp" ],
     [ "config.h", "config_8h.html", "config_8h" ],
+    [ "console.cpp", "console_8cpp.html", null ],
+    [ "console.h", "console_8h.html", [
+      [ "consolet", "classconsolet.html", "classconsolet" ],
+      [ "redirectt", "classconsolet_1_1redirectt.html", "classconsolet_1_1redirectt" ]
+    ] ],
     [ "constructor_of.h", "constructor__of_8h.html", "constructor__of_8h" ],
     [ "container_utils.h", "container__utils_8h.html", "container__utils_8h" ],
     [ "cout_message.cpp", "cout__message_8cpp.html", null ],
@@ -125,6 +130,8 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
     [ "get_module.cpp", "get__module_8cpp.html", "get__module_8cpp" ],
     [ "get_module.h", "get__module_8h.html", "get__module_8h" ],
     [ "graph.h", "graph_8h.html", "graph_8h" ],
+    [ "help_formatter.cpp", "help__formatter_8cpp.html", null ],
+    [ "help_formatter.h", "help__formatter_8h.html", "help__formatter_8h" ],
     [ "identifier.cpp", "identifier_8cpp.html", null ],
     [ "identifier.h", "identifier_8h.html", "identifier_8h" ],
     [ "ieee_float.cpp", "ieee__float_8cpp.html", null ],
@@ -180,6 +187,7 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
     [ "lispexpr.h", "lispexpr_8h.html", "lispexpr_8h" ],
     [ "lispirep.cpp", "lispirep_8cpp.html", "lispirep_8cpp" ],
     [ "lispirep.h", "lispirep_8h.html", "lispirep_8h" ],
+    [ "lower_byte_operators.cpp", "lower__byte__operators_8cpp.html", "lower__byte__operators_8cpp" ],
     [ "magic.h", "magic_8h.html", "magic_8h" ],
     [ "make_unique.h", "make__unique_8h.html", "make__unique_8h" ],
     [ "mathematical_expr.cpp", "mathematical__expr_8cpp.html", "mathematical__expr_8cpp" ],

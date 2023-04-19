@@ -16,9 +16,7 @@ var dir_99e24f80c4828e49b24e2d05c93d325b =
       [ "expr_skeletont", "classexpr__skeletont.html", "classexpr__skeletont" ]
     ] ],
     [ "field_sensitivity.cpp", "field__sensitivity_8cpp.html", "field__sensitivity_8cpp" ],
-    [ "field_sensitivity.h", "field__sensitivity_8h.html", [
-      [ "field_sensitivityt", "classfield__sensitivityt.html", "classfield__sensitivityt" ]
-    ] ],
+    [ "field_sensitivity.h", "field__sensitivity_8h.html", "field__sensitivity_8h" ],
     [ "frame.h", "frame_8h.html", [
       [ "framet", "classframet.html", "classframet" ],
       [ "loop_infot", "structframet_1_1loop__infot.html", "structframet_1_1loop__infot" ],
@@ -68,6 +66,17 @@ var dir_99e24f80c4828e49b24e2d05c93d325b =
     [ "renamed.h", "renamed_8h.html", "renamed_8h" ],
     [ "renaming_level.cpp", "renaming__level_8cpp.html", "renaming__level_8cpp" ],
     [ "renaming_level.h", "renaming__level_8h.html", "renaming__level_8h" ],
+    [ "shadow_memory.cpp", "shadow__memory_8cpp.html", null ],
+    [ "shadow_memory.h", "shadow__memory_8h.html", "shadow__memory_8h" ],
+    [ "shadow_memory_field_definitions.h", "shadow__memory__field__definitions_8h.html", [
+      [ "shadow_memory_field_definitionst", "classshadow__memory__field__definitionst.html", "classshadow__memory__field__definitionst" ]
+    ] ],
+    [ "shadow_memory_state.h", "shadow__memory__state_8h.html", [
+      [ "shadow_memory_statet", "classshadow__memory__statet.html", "classshadow__memory__statet" ],
+      [ "shadowed_addresst", "structshadow__memory__statet_1_1shadowed__addresst.html", "structshadow__memory__statet_1_1shadowed__addresst" ]
+    ] ],
+    [ "shadow_memory_util.cpp", "shadow__memory__util_8cpp.html", "shadow__memory__util_8cpp" ],
+    [ "shadow_memory_util.h", "shadow__memory__util_8h.html", "shadow__memory__util_8h" ],
     [ "show_program.cpp", "show__program_8cpp.html", "show__program_8cpp" ],
     [ "show_program.h", "show__program_8h.html", "show__program_8h" ],
     [ "show_vcc.cpp", "show__vcc_8cpp.html", "show__vcc_8cpp" ],

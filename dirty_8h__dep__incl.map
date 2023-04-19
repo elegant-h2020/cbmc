@@ -1,62 +1,62 @@
 <map id="/home/runner/work/cbmc/cbmc/src/analyses/dirty.h" name="/home/runner/work/cbmc/cbmc/src/analyses/dirty.h">
-<area shape="rect" id="node1" title=" " alt="" coords="2955,5,3146,47"/>
-<area shape="rect" id="node2" href="$constant__propagator_8h.html" title=" " alt="" coords="667,95,874,151"/>
-<area shape="rect" id="node7" href="$local__may__alias_8h.html" title=" " alt="" coords="1863,95,2047,151"/>
-<area shape="rect" id="node18" href="$dirty_8cpp.html" title=" " alt="" coords="3172,102,3377,143"/>
-<area shape="rect" id="node19" href="$local__bitvector__analysis_8h.html" title=" " alt="" coords="109,206,293,262"/>
-<area shape="rect" id="node22" href="$reaching__definitions_8cpp.html" title=" " alt="" coords="3402,95,3609,151"/>
-<area shape="rect" id="node23" href="$path__storage_8h.html" title="Storage of symbolic execution paths to resume." alt="" coords="6051,95,6250,151"/>
-<area shape="rect" id="node52" href="$cfg__info_8h.html" title=" " alt="" coords="2662,206,2855,262"/>
-<area shape="rect" id="node54" href="$utils_8h.html" title=" " alt="" coords="2954,95,3147,151"/>
-<area shape="rect" id="node60" href="$goto__symex__state_8cpp.html" title=" " alt="" coords="6274,95,6473,151"/>
-<area shape="rect" id="node3" href="$constant__propagator_8cpp.html" title=" " alt="" coords="318,206,525,262"/>
-<area shape="rect" id="node4" href="$build__analyzer_8cpp.html" title=" " alt="" coords="549,206,733,262"/>
-<area shape="rect" id="node5" href="$goto__instrument__parse__options_8cpp.html" title=" " alt="" coords="641,325,900,381"/>
-<area shape="rect" id="node6" href="$janalyzer__parse__options_8cpp.html" title=" " alt="" coords="808,206,1019,262"/>
-<area shape="rect" id="node8" href="$custom__bitvector__analysis_8h.html" title=" " alt="" coords="1527,206,1726,262"/>
-<area shape="rect" id="node11" href="$local__may__alias_8cpp.html" title=" " alt="" coords="2403,206,2587,262"/>
-<area shape="rect" id="node12" href="$goto__analyzer__parse__options_8cpp.html" title=" " alt="" coords="1043,206,1285,262"/>
-<area shape="rect" id="node13" href="$contracts_8cpp.html" title=" " alt="" coords="2603,443,2797,499"/>
-<area shape="rect" id="node14" href="$function__assigns_8cpp.html" title=" " alt="" coords="1310,206,1503,262"/>
-<area shape="rect" id="node15" href="$havoc__loops_8cpp.html" title=" " alt="" coords="1750,206,1943,262"/>
-<area shape="rect" id="node16" href="$k__induction_8cpp.html" title=" " alt="" coords="1967,206,2161,262"/>
-<area shape="rect" id="node17" href="$loop__utils_8cpp.html" title=" " alt="" coords="2185,206,2378,262"/>
-<area shape="rect" id="node9" href="$custom__bitvector__analysis_8cpp.html" title=" " alt="" coords="1419,325,1618,381"/>
-<area shape="rect" id="node10" href="$taint__analysis_8cpp.html" title=" " alt="" coords="1643,325,1827,381"/>
-<area shape="rect" id="node20" href="$local__bitvector__analysis_8cpp.html" title=" " alt="" coords="213,325,397,381"/>
-<area shape="rect" id="node21" href="$goto__check__c_8cpp.html" title=" " alt="" coords="5,325,189,381"/>
-<area shape="rect" id="node24" href="$multi__path__symex__only__checker_8h.html" title=" " alt="" coords="4375,199,4559,269"/>
-<area shape="rect" id="node26" href="$cbmc__parse__options_8cpp.html" title=" " alt="" coords="4187,443,4392,499"/>
-<area shape="rect" id="node29" href="$jbmc__parse__options_8cpp.html" title=" " alt="" coords="5151,443,5343,499"/>
-<area shape="rect" id="node30" href="$single__loop__incremental__symex__checker_8h.html" title=" " alt="" coords="3970,199,4155,269"/>
-<area shape="rect" id="node32" href="$single__path__symex__only__checker_8h.html" title=" " alt="" coords="5153,199,5340,269"/>
-<area shape="rect" id="node34" href="$single__path__symex__only__checker_8cpp.html" title=" " alt="" coords="5383,317,5569,388"/>
-<area shape="rect" id="node36" href="$scratch__program_8h.html" title=" " alt="" coords="5827,206,6045,262"/>
-<area shape="rect" id="node43" href="$path__storage_8cpp.html" title=" " alt="" coords="6119,206,6318,262"/>
-<area shape="rect" id="node44" href="$symex__builtin__functions_8cpp.html" title=" " alt="" coords="6342,206,6557,262"/>
-<area shape="rect" id="node45" href="$symex__clean__expr_8cpp.html" title=" " alt="" coords="6581,206,6795,262"/>
-<area shape="rect" id="node46" href="$symex__decl_8cpp.html" title=" " alt="" coords="6819,206,7034,262"/>
-<area shape="rect" id="node47" href="$symex__dereference_8cpp.html" title=" " alt="" coords="7058,206,7273,262"/>
-<area shape="rect" id="node48" href="$symex__function__call_8cpp.html" title=" " alt="" coords="7297,206,7511,262"/>
-<area shape="rect" id="node49" href="$symex__goto_8cpp.html" title=" " alt="" coords="7535,206,7750,262"/>
-<area shape="rect" id="node50" href="$symex__main_8cpp.html" title=" " alt="" coords="7774,206,7989,262"/>
-<area shape="rect" id="node51" href="$symex__start__thread_8cpp.html" title=" " alt="" coords="8013,206,8227,262"/>
-<area shape="rect" id="node25" href="$multi__path__symex__checker_8h.html" title=" " alt="" coords="4359,325,4574,381"/>
-<area shape="rect" id="node27" href="$multi__path__symex__only__checker_8cpp.html" title=" " alt="" coords="4151,317,4335,388"/>
-<area shape="rect" id="node28" href="$java__multi__path__symex__only__checker_8h.html" title=" " alt="" coords="4843,317,5061,388"/>
-<area shape="rect" id="node31" href="$single__loop__incremental__symex__checker_8cpp.html" title=" " alt="" coords="3839,317,4025,388"/>
-<area shape="rect" id="node33" href="$single__path__symex__checker_8h.html" title=" " alt="" coords="4598,325,4818,381"/>
-<area shape="rect" id="node35" href="$java__single__path__symex__only__checker_8h.html" title=" " alt="" coords="5135,317,5358,388"/>
-<area shape="rect" id="node37" href="$accelerate_8cpp.html" title=" " alt="" coords="6934,325,7127,381"/>
-<area shape="rect" id="node38" href="$acceleration__utils_8cpp.html" title=" " alt="" coords="5594,317,5787,388"/>
-<area shape="rect" id="node39" href="$disjunctive__polynomial__acceleration_8cpp.html" title=" " alt="" coords="5811,317,6061,388"/>
-<area shape="rect" id="node40" href="$polynomial__accelerator_8cpp.html" title=" " alt="" coords="6085,325,6363,381"/>
-<area shape="rect" id="node41" href="$sat__path__enumerator_8cpp.html" title=" " alt="" coords="6387,325,6650,381"/>
-<area shape="rect" id="node42" href="$scratch__program_8cpp.html" title=" " alt="" coords="6675,325,6909,381"/>
-<area shape="rect" id="node53" href="$instrument__spec__assigns_8cpp.html" title=" " alt="" coords="2762,317,2961,388"/>
-<area shape="rect" id="node55" href="$instrument__spec__assigns_8h.html" title=" " alt="" coords="3019,199,3218,269"/>
-<area shape="rect" id="node57" href="$havoc__assigns__clause__targets_8cpp.html" title=" " alt="" coords="3170,436,3363,507"/>
-<area shape="rect" id="node58" href="$memory__predicates_8cpp.html" title=" " alt="" coords="3303,325,3550,381"/>
-<area shape="rect" id="node59" href="$utils_8cpp.html" title=" " alt="" coords="3570,206,3763,262"/>
-<area shape="rect" id="node56" href="$havoc__assigns__clause__targets_8h.html" title=" " alt="" coords="3035,317,3229,388"/>
+<area shape="rect" id="node1" title="Variables whose address is taken." alt="" coords="3441,5,3631,47"/>
+<area shape="rect" id="node2" href="$constant__propagator_8h.html" title="Constant propagation." alt="" coords="822,95,1029,151"/>
+<area shape="rect" id="node7" href="$dirty_8cpp.html" title="Local variables whose address is taken." alt="" coords="3545,102,3751,143"/>
+<area shape="rect" id="node8" href="$local__bitvector__analysis_8h.html" title="Field&#45;insensitive, location&#45;sensitive bitvector analysis." alt="" coords="200,95,384,151"/>
+<area shape="rect" id="node11" href="$local__may__alias_8h.html" title="Field&#45;insensitive, location&#45;sensitive may&#45;alias analysis." alt="" coords="2229,95,2413,151"/>
+<area shape="rect" id="node25" href="$reaching__definitions_8cpp.html" title="Range&#45;based reaching definitions analysis (following Field&#45; Sensitive Program Dependence Analysis,..." alt="" coords="3775,95,3982,151"/>
+<area shape="rect" id="node26" href="$cfg__info_8h.html" title="Classes providing CFG&#45;based information about symbols to guide simplifications in function and loop a..." alt="" coords="3327,95,3521,151"/>
+<area shape="rect" id="node31" href="$goto__symex__state_8cpp.html" title="Symbolic Execution." alt="" coords="4006,95,4205,151"/>
+<area shape="rect" id="node32" href="$path__storage_8h.html" title="Storage of symbolic execution paths to resume." alt="" coords="6434,95,6633,151"/>
+<area shape="rect" id="node3" href="$constant__propagator_8cpp.html" title="Constant Propagation." alt="" coords="473,206,679,262"/>
+<area shape="rect" id="node4" href="$build__analyzer_8cpp.html" title=" " alt="" coords="704,206,888,262"/>
+<area shape="rect" id="node5" href="$goto__instrument__parse__options_8cpp.html" title="Main Module." alt="" coords="796,325,1055,381"/>
+<area shape="rect" id="node6" href="$janalyzer__parse__options_8cpp.html" title="JANALYZER Command Line Option Processing." alt="" coords="963,206,1173,262"/>
+<area shape="rect" id="node9" href="$local__bitvector__analysis_8cpp.html" title="Field&#45;insensitive, location&#45;sensitive may&#45;alias analysis." alt="" coords="264,206,448,262"/>
+<area shape="rect" id="node10" href="$goto__check__c_8cpp.html" title="Checks for Errors in C/C++ Programs." alt="" coords="5,206,189,262"/>
+<area shape="rect" id="node12" href="$custom__bitvector__analysis_8h.html" title="Field&#45;insensitive, location&#45;sensitive bitvector analysis." alt="" coords="1415,206,1614,262"/>
+<area shape="rect" id="node15" href="$local__may__alias_8cpp.html" title="Field&#45;insensitive, location&#45;sensitive may&#45;alias analysis." alt="" coords="1639,206,1823,262"/>
+<area shape="rect" id="node16" href="$goto__analyzer__parse__options_8cpp.html" title="Goto&#45;Analyser Command Line Option Processing." alt="" coords="1847,206,2089,262"/>
+<area shape="rect" id="node17" href="$contracts_8cpp.html" title="Verify and use annotated loop and function contracts." alt="" coords="2987,206,3181,262"/>
+<area shape="rect" id="node18" href="$dfcc__infer__loop__assigns_8h.html" title="Infer a set of assigns clause targets for a natural loop." alt="" coords="2113,199,2311,269"/>
+<area shape="rect" id="node20" href="$function__assigns_8cpp.html" title="Compute objects assigned to in a function." alt="" coords="2335,206,2529,262"/>
+<area shape="rect" id="node21" href="$havoc__loops_8cpp.html" title="Havoc Loops." alt="" coords="2553,206,2746,262"/>
+<area shape="rect" id="node22" href="$k__induction_8cpp.html" title="k&#45;induction" alt="" coords="2770,206,2963,262"/>
+<area shape="rect" id="node23" href="$loop__utils_8cpp.html" title="Helper functions for k&#45;induction and loop invariants." alt="" coords="1198,206,1391,262"/>
+<area shape="rect" id="node24" href="$enumerative__loop__contracts__synthesizer_8cpp.html" title="Enumerative Loop Contracts Synthesizer." alt="" coords="3205,199,3416,269"/>
+<area shape="rect" id="node13" href="$custom__bitvector__analysis_8cpp.html" title="Field&#45;insensitive, location&#45;sensitive bitvector analysis." alt="" coords="1523,325,1722,381"/>
+<area shape="rect" id="node14" href="$taint__analysis_8cpp.html" title="Taint Analysis." alt="" coords="1315,325,1499,381"/>
+<area shape="rect" id="node19" href="$dfcc__infer__loop__assigns_8cpp.html" title=" " alt="" coords="2108,317,2316,388"/>
+<area shape="rect" id="node27" href="$dfcc_8cpp.html" title=" " alt="" coords="3663,199,3860,269"/>
+<area shape="rect" id="node28" href="$dfcc__instrument_8cpp.html" title=" " alt="" coords="3884,199,4081,269"/>
+<area shape="rect" id="node29" href="$dfcc__swap__and__wrap_8cpp.html" title=" " alt="" coords="4105,199,4303,269"/>
+<area shape="rect" id="node30" href="$instrument__spec__assigns_8cpp.html" title="Specify write set in code contracts." alt="" coords="3439,199,3638,269"/>
+<area shape="rect" id="node33" href="$cbmc__parse__options_8cpp.html" title="CBMC Command Line Option Processing." alt="" coords="5071,436,5276,492"/>
+<area shape="rect" id="node34" href="$multi__path__symex__only__checker_8h.html" title="Goto Checker using Multi&#45;Path Symbolic Execution only (no SAT solving)" alt="" coords="5153,199,5337,269"/>
+<area shape="rect" id="node38" href="$jbmc__parse__options_8cpp.html" title="JBMC Command Line Option Processing." alt="" coords="5931,436,6123,492"/>
+<area shape="rect" id="node39" href="$single__loop__incremental__symex__checker_8h.html" title="Goto Checker using multi&#45;path symbolic execution with incremental unwinding of a specified loop." alt="" coords="4749,199,4934,269"/>
+<area shape="rect" id="node41" href="$single__path__symex__only__checker_8cpp.html" title="Goto Checker using Single Path Symbolic Execution only." alt="" coords="6163,317,6349,388"/>
+<area shape="rect" id="node42" href="$single__path__symex__only__checker_8h.html" title="Goto Checker using Single Path Symbolic Execution only." alt="" coords="5933,199,6120,269"/>
+<area shape="rect" id="node45" href="$scratch__program_8h.html" title="Loop Acceleration." alt="" coords="6424,206,6643,262"/>
+<area shape="rect" id="node52" href="$path__storage_8cpp.html" title=" " alt="" coords="6667,206,6866,262"/>
+<area shape="rect" id="node53" href="$symex__builtin__functions_8cpp.html" title="Symbolic Execution of ANSI&#45;C." alt="" coords="6890,206,7105,262"/>
+<area shape="rect" id="node54" href="$symex__clean__expr_8cpp.html" title="Symbolic Execution of ANSI&#45;C." alt="" coords="7129,206,7343,262"/>
+<area shape="rect" id="node55" href="$symex__decl_8cpp.html" title="Symbolic Execution." alt="" coords="7367,206,7582,262"/>
+<area shape="rect" id="node56" href="$symex__dereference_8cpp.html" title="Symbolic Execution of ANSI&#45;C." alt="" coords="7606,206,7821,262"/>
+<area shape="rect" id="node57" href="$symex__function__call_8cpp.html" title="Symbolic Execution of ANSI&#45;C." alt="" coords="7845,206,8059,262"/>
+<area shape="rect" id="node58" href="$symex__goto_8cpp.html" title="Symbolic Execution." alt="" coords="8083,206,8298,262"/>
+<area shape="rect" id="node59" href="$symex__main_8cpp.html" title="Symbolic Execution." alt="" coords="8322,206,8537,262"/>
+<area shape="rect" id="node60" href="$symex__start__thread_8cpp.html" title="Symbolic Execution." alt="" coords="4327,206,4542,262"/>
+<area shape="rect" id="node35" href="$multi__path__symex__checker_8h.html" title="Goto Checker using Multi&#45;Path Symbolic Execution." alt="" coords="5138,325,5353,381"/>
+<area shape="rect" id="node36" href="$multi__path__symex__only__checker_8cpp.html" title="Goto Checker using Multi&#45;Path Symbolic Execution only (no SAT solving)" alt="" coords="4879,317,5063,388"/>
+<area shape="rect" id="node37" href="$java__multi__path__symex__only__checker_8h.html" title="Goto Checker using Bounded Model Checking for Java." alt="" coords="5377,317,5596,388"/>
+<area shape="rect" id="node40" href="$single__loop__incremental__symex__checker_8cpp.html" title="Goto Checker using multi&#45;path symbolic execution with incremental unwinding of a specified loop." alt="" coords="4618,317,4803,388"/>
+<area shape="rect" id="node43" href="$single__path__symex__checker_8h.html" title="Goto Checker using Single Path Symbolic Execution." alt="" coords="5671,325,5891,381"/>
+<area shape="rect" id="node44" href="$java__single__path__symex__only__checker_8h.html" title="Goto Checker using Single Path Symbolic Execution for Java." alt="" coords="5915,317,6138,388"/>
+<area shape="rect" id="node46" href="$accelerate_8cpp.html" title="Loop Acceleration." alt="" coords="6425,325,6618,381"/>
+<area shape="rect" id="node47" href="$acceleration__utils_8cpp.html" title="Loop Acceleration." alt="" coords="6642,317,6835,388"/>
+<area shape="rect" id="node48" href="$disjunctive__polynomial__acceleration_8cpp.html" title="Loop Acceleration." alt="" coords="6859,317,7109,388"/>
+<area shape="rect" id="node49" href="$polynomial__accelerator_8cpp.html" title="Loop Acceleration." alt="" coords="7133,325,7411,381"/>
+<area shape="rect" id="node50" href="$sat__path__enumerator_8cpp.html" title="Loop Acceleration." alt="" coords="7435,325,7698,381"/>
+<area shape="rect" id="node51" href="$scratch__program_8cpp.html" title="Loop Acceleration." alt="" coords="7723,325,7957,381"/>
 </map>
