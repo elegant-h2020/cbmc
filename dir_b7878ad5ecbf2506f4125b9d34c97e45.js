@@ -189,7 +189,6 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
     [ "lispirep.h", "lispirep_8h.html", "lispirep_8h" ],
     [ "lower_byte_operators.cpp", "lower__byte__operators_8cpp.html", "lower__byte__operators_8cpp" ],
     [ "magic.h", "magic_8h.html", "magic_8h" ],
-    [ "make_unique.h", "make__unique_8h.html", "make__unique_8h" ],
     [ "mathematical_expr.cpp", "mathematical__expr_8cpp.html", "mathematical__expr_8cpp" ],
     [ "mathematical_expr.h", "mathematical__expr_8h.html", "mathematical__expr_8h" ],
     [ "mathematical_types.cpp", "mathematical__types_8cpp.html", "mathematical__types_8cpp" ],
@@ -234,14 +233,13 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
       [ "statet", "structnfat_1_1statet.html", "structnfat_1_1statet" ],
       [ "transitiont", "structnfat_1_1transitiont.html", "structnfat_1_1transitiont" ]
     ] ],
-    [ "nodiscard.h", "nodiscard_8h.html", "nodiscard_8h" ],
     [ "nondet_bool.h", "nondet__bool_8h.html", "nondet__bool_8h" ],
     [ "numbering.h", "numbering_8h.html", [
       [ "numberingt", "classnumberingt.html", "classnumberingt" ]
     ] ],
     [ "object_factory_parameters.cpp", "object__factory__parameters_8cpp.html", "object__factory__parameters_8cpp" ],
     [ "object_factory_parameters.h", "object__factory__parameters_8h.html", "object__factory__parameters_8h" ],
-    [ "optional.h", "optional_8h.html", "optional_8h" ],
+    [ "optional.h", "optional_8h.html", null ],
     [ "optional_utils.h", "optional__utils_8h.html", "optional__utils_8h" ],
     [ "options.cpp", "options_8cpp.html", null ],
     [ "options.h", "options_8h.html", [
@@ -309,7 +307,7 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
       [ "resultt", "structsimplify__exprt_1_1resultt.html", "structsimplify__exprt_1_1resultt" ]
     ] ],
     [ "simplify_expr_floatbv.cpp", "simplify__expr__floatbv_8cpp.html", null ],
-    [ "simplify_expr_if.cpp", "simplify__expr__if_8cpp.html", null ],
+    [ "simplify_expr_if.cpp", "simplify__expr__if_8cpp.html", "simplify__expr__if_8cpp" ],
     [ "simplify_expr_int.cpp", "simplify__expr__int_8cpp.html", "simplify__expr__int_8cpp" ],
     [ "simplify_expr_pointer.cpp", "simplify__expr__pointer_8cpp.html", "simplify__expr__pointer_8cpp" ],
     [ "simplify_expr_struct.cpp", "simplify__expr__struct_8cpp.html", null ],
@@ -338,7 +336,7 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
     [ "std_types.h", "std__types_8h.html", "std__types_8h" ],
     [ "string2int.cpp", "string2int_8cpp.html", "string2int_8cpp" ],
     [ "string2int.h", "string2int_8h.html", "string2int_8h" ],
-    [ "string_constant.cpp", "string__constant_8cpp.html", null ],
+    [ "string_constant.cpp", "string__constant_8cpp.html", "string__constant_8cpp" ],
     [ "string_constant.h", "string__constant_8h.html", "string__constant_8h" ],
     [ "string_container.cpp", "string__container_8cpp.html", null ],
     [ "string_container.h", "string__container_8h.html", "string__container_8h" ],
@@ -374,9 +372,7 @@ var dir_b7878ad5ecbf2506f4125b9d34c97e45 =
     [ "type.cpp", "type_8cpp.html", "type_8cpp" ],
     [ "type.h", "type_8h.html", "type_8h" ],
     [ "typecheck.cpp", "typecheck_8cpp.html", null ],
-    [ "typecheck.h", "typecheck_8h.html", [
-      [ "typecheckt", "classtypecheckt.html", "classtypecheckt" ]
-    ] ],
+    [ "typecheck.h", "typecheck_8h.html", "typecheck_8h" ],
     [ "ui_message.cpp", "ui__message_8cpp.html", null ],
     [ "ui_message.h", "ui__message_8h.html", "ui__message_8h" ],
     [ "unicode.cpp", "unicode_8cpp.html", "unicode_8cpp" ],
